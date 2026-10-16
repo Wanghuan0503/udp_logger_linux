@@ -1,0 +1,6 @@
+/home/wh/桌面/udp_logger/build/CMakeFiles/udp_core.dir
+/home/wh/桌面/udp_logger/build/CMakeFiles/udp_logger.dir
+/home/wh/桌面/udp_logger/build/CMakeFiles/udp_sender.dir
+/home/wh/桌面/udp_logger/build/CMakeFiles/test.dir
+/home/wh/桌面/udp_logger/build/CMakeFiles/edit_cache.dir
+/home/wh/桌面/udp_logger/build/CMakeFiles/rebuild_cache.dir

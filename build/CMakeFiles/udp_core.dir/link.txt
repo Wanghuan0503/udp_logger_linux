@@ -1,0 +1,2 @@
+/usr/bin/ar qc libudp_core.a CMakeFiles/udp_core.dir/src/config.cpp.o CMakeFiles/udp_core.dir/src/logger.cpp.o CMakeFiles/udp_core.dir/src/parser.cpp.o CMakeFiles/udp_core.dir/src/app.cpp.o
+/usr/bin/ranlib libudp_core.a
